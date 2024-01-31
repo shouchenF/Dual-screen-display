@@ -1,0 +1,2 @@
+pip install pyinstaller    # 在pycharm的终端下安装打包工具
+pyinstaller -F -w -i favicon.ico display_finish.py # 在对应的路径下执行该命令，display_finish.py 就是我们程序的入口, favicon.ico 是打包后的软件显示图标
